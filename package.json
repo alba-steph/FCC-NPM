@@ -19,5 +19,6 @@
     "incandescent",
     "freecodecamp"
   ],
-  "license": "BSD"
+  "license": "BSD",
+  "version": "1.0"
 }
