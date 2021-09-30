@@ -12,5 +12,10 @@
     "url": "https://idontknow/todo.git"
   },
   "author": "Stephanie Albanese",
-  "description": "This project makes the world a better place."
+  "description": "This project makes the world a better place.",
+  "keywords": [
+    "splendiferous",
+    "fantastical",
+    "incandescent"
+  ]
 }
